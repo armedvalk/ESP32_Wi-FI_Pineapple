@@ -1,5 +1,5 @@
-# ESP32_Wi-FI_Pineapple
-This is a copy of Hak5's Wi-Fi Pineapple but made for ESP32. ESP32 is a cheap Micro-Controller that supports Wi-Fi and bluetooth. 
+# ESP32_Wi-FI_Tester
+This tool has all the Capabilites of the Wi-Fi Pineapple by Hak5 but made for ESP32 for cheaper and more portable and BlueTooth Testing Abilites.
 
 Disclaimer:
 If you decide to flash this please remeber, you Only are allowed to test on your hardware.
@@ -19,3 +19,6 @@ Click "Connect" on ESP.hunh.me
 Once this is done, 
 
 Connect to the ESP Network (usually labled ESP) 
+
+Liscense:
+If you are to fork this repository for coding to an oled, please add my name for credit,As I am the one who coded this originally.
