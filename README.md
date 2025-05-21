@@ -1,5 +1,5 @@
 # ESP32_Wi-FI_Tester
-This tool has all the Capabilites of the Wi-Fi Pineapple by Hak5 but made for ESP32 for cheaper and more portable and BlueTooth Testing Abilites.
+This tool has all the Capabilites of the Wi-Fi Pineapple by Hak5 but made for ESP32 for cheaper and more portable.
 
 Disclaimer:
 If you decide to flash this please remeber, you Only are allowed to test on your hardware.
