@@ -1,4 +1,4 @@
-# ESP32_Wi-FI_Tester
+# ESP32 Wi-FI Tester
 This tool has all the Capabilites of the Wi-Fi Pineapple by Hak5 but made for ESP32 for cheaper and more portable.
 
 Disclaimer:
