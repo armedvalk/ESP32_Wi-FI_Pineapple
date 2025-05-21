@@ -18,7 +18,9 @@ Click "Connect" on ESP.hunh.me
 
 Once this is done, 
 
-Connect to the ESP Network (usually labled ESP) 
+Connect to the ESP Bluetooth
+
+Enjoy!
 
 Liscense:
 
